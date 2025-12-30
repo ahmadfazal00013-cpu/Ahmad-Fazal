@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Proper Life with Islam (PLWI)",
+  "description": "A universal life planning OS with AI architecting, spiritual tools, and personalized insights for everyone.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
